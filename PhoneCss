@@ -5,7 +5,6 @@ body {
 	background-attachment: fixed;
 	background-size: cover;
 	background-color: black;
-	overflow: hidden;
 }
 
 .product-cardjf, .product-cardNotMosh1,  .product-cardNotMosh2,
