@@ -1,0 +1,18 @@
+body {
+    background-image: url("Images/Mobile Buying Page background.png");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-color: black;
+	overflow: hidden;
+}
+
+.product-cardjf, .product-cardNotMosh1,  .product-cardNotMosh2,
+.product-cardCropHoodie, .product-cardAsianMosh, .product-cardMoshRules{
+	background-color: rgba(228,222,222,1.00);
+	height: 70%;
+	width: 65%;
+	border-radius: 30px;
+	margin: 90px auto ;
+}
